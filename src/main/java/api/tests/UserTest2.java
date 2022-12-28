@@ -20,7 +20,7 @@ public class UserTest2 {
      @UserTest2
      This is duplicate of @UserTest I used method from @UserEndPoints2 for testClasses.
 
-     !!! also change in testng to run classes
+     !!! also change in testng to run classes.
      ***/
 
     @BeforeClass
