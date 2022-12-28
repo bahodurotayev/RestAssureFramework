@@ -8,7 +8,8 @@
 
     <test verbose="2" preserve-order="true" name="C:/Users/tjkba/IdeaProjects/RestAssureFramework">
         <classes>
-            <class name ="api.tests.UserTest"/>
+            <class name ="api.tests.UserTest2"/>   <!--this is  UserTest2-->
+            <!-- <class name ="api.tests.UserTest"/>   this is UserTest-->
         </classes>
     </test>
 </suite>
